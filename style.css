@@ -1,0 +1,111 @@
+* {
+	font-family: "Roboto";
+	color: #011627;
+}
+
+body {
+	margin: 3rem;
+}
+
+.name {
+	font-size: 2rem;
+	font-family: "Roboto";
+	font-weight: 600;
+	color: #011627;
+	margin: 1.5rem 0;
+}
+
+.contact {
+	font-weight: 600;
+}
+
+table {
+	margin: 1.5rem 0;
+}
+
+a {
+	color: #20A4F3;
+	font-weight: 600;
+	font-size: 1.2rem;
+	text-decoration: underline;
+	margin: 0.5rem;
+}
+
+.first-a {
+	margin-left: 0;
+}
+
+.boldedBlue {
+	font-weight: 900;
+	color: #20A4F3;
+}
+
+.subtitle {
+	margin-bottom: 20px;
+}
+
+h5 {
+	font-weight: 600;
+	word-wrap:break-word;
+}
+
+.padIt {
+	margin-bottom: 20px;
+}
+
+h4 {
+    font-size: 1.5rem;
+	font-weight: 900;
+	color: #20A4F3;
+	margin: 1rem 0;
+}
+
+.boldIt {
+	font-weight: 600;
+}
+
+.job-container {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0.5rem 0;
+}
+
+.job-title {
+	font-size: 1rem;
+	font-weight: 600;
+	margin: 0.3rem 0
+}
+
+.job-bullet-title {
+	/* font-weight: 550; */
+	text-decoration: underline;
+}
+
+.edu-title {
+	margin: 1rem 0;
+}
+
+.edu-time {
+    font-size: 1rem;
+}
+
+.notBold {
+	font-weight: 500;
+	margin-left: 5px;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+	margin-bottom: 20px;
+	word-wrap: break-word;
+}
+
+ul {
+	margin-left: 0;
+	padding-left: 0;
+}
+
+ul > li {
+	list-style-position: inside;
+}
